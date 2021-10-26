@@ -6,5 +6,5 @@
 
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheus7gs&show_icons=true&theme=dracula)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in//)
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/Matheus_7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/matheusgomes747)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/@Matheusgomes747)
